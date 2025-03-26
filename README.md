@@ -143,3 +143,11 @@ npm run dev
 ## 📄 许可证
 
 MIT 
+
+## 🎥 演示视频
+
+### YouTube 视频演示
+https://github.com/xujizhong/video-translate/assets/xujizhong/assets/youtube.mp4
+
+### TED 视频演示
+https://github.com/xujizhong/video-translate/assets/xujizhong/assets/ted.mp4 
