@@ -15,11 +15,7 @@ A powerful AI-driven real-time video subtitle translation tool that extracts aud
 
 ## 🖥️ Supported Video Platforms
 
-This tool, as a browser extension, supports the following mainstream video platforms:
-
-- **YouTube** - World's largest video sharing platform
-- **Bilibili** - China's leading video platform with danmaku
-- **TED** - Ideas worth spreading
+This tool, as a browser extension, supports the following mainstream video platforms.
 
 Supports all websites using the HTML5 standard `<video>` tag, covering the vast majority of modern video sites.
 
