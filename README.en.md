@@ -102,10 +102,21 @@ npm run dev
 
 ### How to Use
 
-1. Access in browser: `http://localhost:8080`
-2. Select a local video file
-3. Click the "Start Processing" button
-4. View recognition results and translated subtitles in real-time
+1. Install Chrome Extension
+   - Open Chrome browser and visit `chrome://extensions/`
+   - Enable "Developer mode" in the top right corner
+   - Click "Load unpacked"
+   - Select the `extension` directory in the project
+
+2. Start the Server
+   - Ensure the server is running (default port 3000)
+   - If the port is occupied, you can modify `SERVER_PORT` in the `.env` file
+
+3. Using the Extension
+   - Visit video websites
+   - When playing a video, click the extension icon in the Chrome toolbar
+   - The extension will automatically detect the currently playing video and start processing
+   - View recognition results and translated subtitles in real-time
 
 ## 🛠️ Technical Architecture
 
