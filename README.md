@@ -147,7 +147,7 @@ MIT
 ## 🎥 演示视频
 
 ### YouTube 视频演示
-https://github.com/xujizhong/video-translate/assets/xujizhong/assets/youtube.mp4
+![YouTube 演示](assets/youtube.gif)
 
 ### TED 视频演示
-https://github.com/xujizhong/video-translate/assets/xujizhong/assets/ted.mp4 
+![TED 演示](assets/ted.gif) 
