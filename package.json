@@ -1,0 +1,26 @@
+{
+  "name": "video-translate",
+  "version": "1.0.0",
+  "description": "基于AI的实时音频字幕翻译工具，支持视频音频实时识别和翻译",
+  "scripts": {
+    "server": "cd server && npm start",
+    "dev": "cd server && npm run dev",
+    "install-server": "cd server && npm install"
+  },
+  "keywords": [
+    "ai",
+    "speech-recognition",
+    "real-time-translation",
+    "subtitles",
+    "audio-processing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xujizhong/video-translate"
+  }
+} 

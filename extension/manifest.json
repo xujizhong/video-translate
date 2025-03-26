@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "视频音频提取器",
+    "version": "1.0",
+    "description": "AI驱动的实时字幕翻译工具，支持多种视频平台",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["js/content.js"]
+        }
+    ],
+    "background": {
+        "service_worker": "js/background.js"
+    }
+}
